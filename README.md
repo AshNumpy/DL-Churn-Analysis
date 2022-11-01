@@ -58,8 +58,5 @@ pip install numpy
 
 #### Datasets  
 You can find the churn datas on `../Datasets/Churn_Modelling.csv`. Also there is some train and test datas.  
-  
-#### Authors
-
 
 [keras]: https://keras.io/api/
