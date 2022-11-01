@@ -5,7 +5,7 @@ In this project we will learn how to create a artifical neural networks and how 
 Churn analytics is the process of measuring the rate at which customers quit the product, site, or service.  
 It answers the questions “Are we losing customers?”  
   
-<img src="https://d35fo82fjcw0y8.cloudfront.net/2020/08/24164235/incontent-3.png" width="700" height="350"/>
+<img src="https://d35fo82fjcw0y8.cloudfront.net/2020/08/24164235/incontent-3.png" width="850" height="350"/>
   
 Trying to acquire new customers is much more expensive than retaining existing customers.  
 Thats why we try to retaining existing customers.
