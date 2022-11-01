@@ -1,6 +1,6 @@
 ### Predicting the Customers Churn with Artificial Neural Networks  
   
-In this project we will learn how to create a artifical neural networks and how to predict customers churn.  
+In this project we will learn how to create a artificial neural networks and how to predict customers churn.  
   
 Churn analytics is the process of measuring the rate at which customers quit the product, site, or service.  
 It answers the questions “Are we losing customers?”  
