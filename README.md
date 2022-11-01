@@ -12,7 +12,7 @@ Thats why we try to retaining existing customers.
   
 #### Requirements  
   
-<img src='https://keras.io/img/logo.png' width='700' height='200'>  
+<img src='https://keras.io/img/logo.png' width='300' height='100'>  
   
 We will use [Keras][keras] for neural network so the requirements:  
 - TensorFlow  
